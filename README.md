@@ -43,6 +43,9 @@ I'm passionate about software engineering, cybersecurity, and computer science. 
 ## 🚀 Featured Projects
 
 * 🦁 **[Dehiwala Zoological Garden Project](https://github.com/shehararishmi/shehararishmi/tree/main/Dehiwala%20Zoological%20Garden)** - A complete Java desktop application integrated with MySQL databases and iReport sheets, designed for managing zoo system operations and records.
+* 🧮 **[Java Swing Calculator](https://github.com/shehararishmi/shehararishmi/tree/main/Calculator)** - A desktop calculator application built using Java and Swing components (JFrame, JTextField, JButton). It features a clean graphical user interface designed in NetBeans and supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+* **Tech Stack:** Java, Swing (GUI), NetBeans IDE
+* **Core Features:** Interactive number pad, clear function, error handling for edge cases (like division by zero), and responsive layout alignment.
 
 ---
 
