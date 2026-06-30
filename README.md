@@ -42,8 +42,7 @@ I'm passionate about software engineering, cybersecurity, and computer science. 
 
 ## 🚀 Featured Projects
 
-* ☕ **POS System Project** - A complete Java desktop application integrated with MySQL databases and iReport sheets, emphasizing software architectural patterns.
-* 🗄️ **Database Design Portfolio** - Practical database architecture featuring custom Entity Relationship Diagrams (ERD) and relational SQL implementations.
+* 🦁 **[Dehiwala Zoological Garden Project](https://github.com/shehararishmi/shehararishmi/tree/main/Dehiwala%20Zoological%20Garden)** - A complete Java desktop application integrated with MySQL databases and iReport sheets, designed for managing zoo system operations and records.
 
 ---
 
